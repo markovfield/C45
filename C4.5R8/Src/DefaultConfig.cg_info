@@ -1,0 +1,444 @@
+I-Logix-RPY-Archive version 8.11.0 * 9499822
+
+- m_fileModifyTime = { IRPYRawContainer 
+	- size = 31;
+	- value = "average.c" 9.20.2015::12:51:37
+	"besttree.c" 9.20.2015::12:51:37
+	"build.c" 9.20.2015::12:51:37
+	"c4.5.c" 9.20.2015::12:51:37
+	"c4.5rules.c" 9.20.2015::12:51:37
+	"classify.c" 9.20.2015::12:51:37
+	"confmat.c" 9.20.2015::12:51:37
+	"consult.c" 9.20.2015::12:51:37
+	"consultr.c" 9.20.2015::12:51:37
+	"contin.c" 9.20.2015::12:51:37
+	"discr.c" 9.20.2015::12:51:37
+	"genlogs.c" 9.20.2015::12:51:37
+	"genrules.c" 9.20.2015::12:51:37
+	"getdata.c" 9.20.2015::12:51:37
+	"getnames.c" 9.20.2015::12:51:37
+	"getopt.c" 9.20.2015::12:51:37
+	"header.c" 9.20.2015::12:51:37
+	"info.c" 9.20.2015::12:51:37
+	"makerules.c" 9.20.2015::12:51:37
+	"prune.c" 9.20.2015::12:51:37
+	"prunerule.c" 9.20.2015::12:51:37
+	"rules.c" 9.20.2015::12:51:37
+	"siftrules.c" 9.20.2015::12:51:37
+	"sort.c" 9.20.2015::12:51:37
+	"st-thresh.c" 9.20.2015::12:51:37
+	"stats.c" 9.20.2015::12:51:37
+	"subset.c" 9.20.2015::12:51:37
+	"testrules.c" 9.20.2015::12:51:37
+	"trees.c" 9.20.2015::12:51:37
+	"userint.c" 9.20.2015::12:51:37
+	"xval-prep.c" 9.20.2015::12:51:37
+	
+}
+- size = 45;
+- hElement = { IHandle 
+	- _m2Class = "ICodeGenConfigInfo";
+	- _filename = "DefaultComponent.cmp";
+	- _subsystem = "";
+	- _class = "";
+	- _name = "DefaultComponent\\DefaultConfig";
+	- _id = GUID 92a2076f-b62a-4b22-b6c9-c91b9a5939a8;
+}
+- genTime = 9.20.2015::12:51:37;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = "Src.sbs";
+	- _subsystem = "Src";
+	- _class = "TopLevel";
+	- _name = "c45rules";
+	- _id = GUID f66fa019-d8b8-4dae-8480-e8833460f1bd;
+}
+- genTime = 9.20.2015::12:51:37;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = "Src.sbs";
+	- _subsystem = "Src";
+	- _class = "TopLevel";
+	- _name = "stthresh";
+	- _id = GUID 3d30f529-4f33-4a03-a8eb-41d9975d84a2;
+}
+- genTime = 9.20.2015::12:51:37;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = "Src.sbs";
+	- _subsystem = "Src";
+	- _class = "TopLevel";
+	- _name = "getnames";
+	- _id = GUID 7365a603-13fb-4c2e-85cf-34012d4e63f8;
+}
+- genTime = 9.20.2015::12:51:37;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = "Src.sbs";
+	- _subsystem = "Src";
+	- _class = "TopLevel";
+	- _name = "xvalprep";
+	- _id = GUID 7be1cf16-b47e-4e40-8cd5-5901a82927f3;
+}
+- genTime = 9.20.2015::12:51:37;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = "Src.sbs";
+	- _subsystem = "Src";
+	- _class = "TopLevel";
+	- _name = "consult";
+	- _id = GUID f627b7c2-39da-4366-b48e-ecb9d3103dc1;
+}
+- genTime = 9.20.2015::12:51:37;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = "Src.sbs";
+	- _subsystem = "Src";
+	- _class = "TopLevel";
+	- _name = "header";
+	- _id = GUID c53e4cd9-12ed-48c0-bb35-2df03c3307c5;
+}
+- genTime = 9.20.2015::12:51:37;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = "Src.sbs";
+	- _subsystem = "Src";
+	- _class = "TopLevel";
+	- _name = "consultr";
+	- _id = GUID 00669592-47d7-406d-93e9-193503fd7ea6;
+}
+- genTime = 9.20.2015::12:51:37;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = "Src.sbs";
+	- _subsystem = "Src";
+	- _class = "TopLevel";
+	- _name = "average";
+	- _id = GUID 01f00e9f-b30b-420c-8fdb-d58b81ec9bdd;
+}
+- genTime = 9.20.2015::12:51:37;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = "Src.sbs";
+	- _subsystem = "Src";
+	- _class = "TopLevel";
+	- _name = "genlogs";
+	- _id = GUID d01c5bbe-ce6a-4cab-a46c-fbfbd17797d8;
+}
+- genTime = 9.20.2015::12:51:37;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = "Src.sbs";
+	- _subsystem = "Src";
+	- _class = "TopLevel";
+	- _name = "discr";
+	- _id = GUID 14200b7b-56fa-4791-ba2c-0fdafe1c6498;
+}
+- genTime = 9.20.2015::12:51:37;
+- hElement = { IHandle 
+	- _m2Class = "IFolder";
+	- _filename = "DefaultComponent.cmp";
+	- _subsystem = "";
+	- _class = "";
+	- _name = "DefaultComponent\\Files\\sys";
+	- _id = GUID 9d03556f-a6c9-48b2-922c-cae92f84de1c;
+}
+- genTime = 9.20.2015::12:51:36;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = "Src.sbs";
+	- _subsystem = "Src";
+	- _class = "TopLevel";
+	- _name = "prune";
+	- _id = GUID 03a8537e-b9e1-4f23-ad7d-88a4ddc1d3fc;
+}
+- genTime = 9.20.2015::12:51:37;
+- hElement = { IHandle 
+	- _m2Class = "IFolder";
+	- _filename = "DefaultComponent.cmp";
+	- _subsystem = "";
+	- _class = "";
+	- _name = "DefaultComponent\\Files";
+	- _id = GUID a731480a-863a-4d41-9caa-8b393d2d4cd1;
+}
+- genTime = 9.20.2015::12:51:36;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = "Src.sbs";
+	- _subsystem = "Src";
+	- _class = "TopLevel";
+	- _name = "siftrules";
+	- _id = GUID 3ae69ed4-68a2-409c-bef1-2e25a75dfe73;
+}
+- genTime = 9.20.2015::12:51:37;
+- hElement = { IHandle 
+	- _m2Class = "IFile";
+	- _filename = "DefaultComponent.cmp";
+	- _subsystem = "";
+	- _class = "";
+	- _name = "DefaultComponent\\Files\\sys\\stat";
+	- _id = GUID 4413c3a9-2f0e-412f-9305-b8be5e0fc3e1;
+}
+- genTime = 9.20.2015::12:51:35;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = "Src.sbs";
+	- _subsystem = "Src";
+	- _class = "TopLevel";
+	- _name = "genrules";
+	- _id = GUID ad55de75-5be2-4ef5-a815-d6d42644dc0a;
+}
+- genTime = 9.20.2015::12:51:37;
+- hElement = { IHandle 
+	- _m2Class = "IProject";
+	- _filename = "";
+	- _subsystem = "";
+	- _class = "";
+	- _name = "c45";
+	- _id = GUID c1bf1731-175e-4c7b-bc60-3c53026cf0f0;
+}
+- genTime = 9.20.2015::12:51:36;
+- hElement = { IHandle 
+	- _m2Class = "IFile";
+	- _filename = "DefaultComponent.cmp";
+	- _subsystem = "";
+	- _class = "";
+	- _name = "DefaultComponent\\Files\\stdio";
+	- _id = GUID 68422e63-ccf8-4050-8dfd-7a8c65be0de3;
+}
+- genTime = 9.20.2015::12:51:35;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = "Src.sbs";
+	- _subsystem = "Src";
+	- _class = "TopLevel";
+	- _name = "prunerule";
+	- _id = GUID e37119a7-c3a1-4d9a-9f43-c8af87a97092;
+}
+- genTime = 9.20.2015::12:51:37;
+- hElement = { IHandle 
+	- _m2Class = "IFile";
+	- _filename = "DefaultComponent.cmp";
+	- _subsystem = "";
+	- _class = "";
+	- _name = "DefaultComponent\\Files\\rulex";
+	- _id = GUID 47bb7854-9b8e-4f8d-8ef1-d62b0b7af6f7;
+}
+- genTime = 9.20.2015::12:51:35;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = "Src.sbs";
+	- _subsystem = "Src";
+	- _class = "TopLevel";
+	- _name = "getopt";
+	- _id = GUID 87245767-2afc-45a1-aac4-05d965a44277;
+}
+- genTime = 9.20.2015::12:51:37;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = "Src.sbs";
+	- _subsystem = "Src";
+	- _class = "TopLevel";
+	- _name = "rules";
+	- _id = GUID a596f5a6-5447-4ac1-98eb-9df77d177488;
+}
+- genTime = 9.20.2015::12:51:37;
+- hElement = { IHandle 
+	- _m2Class = "IFile";
+	- _filename = "DefaultComponent.cmp";
+	- _subsystem = "";
+	- _class = "";
+	- _name = "DefaultComponent\\Files\\math";
+	- _id = GUID 5f3ef57d-ed7d-436a-8efa-6ea9f05b23a1;
+}
+- genTime = 9.20.2015::12:51:35;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = "Src.sbs";
+	- _subsystem = "Src";
+	- _class = "TopLevel";
+	- _name = "subset";
+	- _id = GUID 7b16667f-3189-4467-871c-935951ea5220;
+}
+- genTime = 9.20.2015::12:51:37;
+- hElement = { IHandle 
+	- _m2Class = "IFile";
+	- _filename = "DefaultComponent.cmp";
+	- _subsystem = "";
+	- _class = "";
+	- _name = "DefaultComponent\\Files\\defns";
+	- _id = GUID 6576eced-ecab-49e9-9847-9443595cd2bf;
+}
+- genTime = 9.20.2015::12:51:35;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = "Src.sbs";
+	- _subsystem = "Src";
+	- _class = "TopLevel";
+	- _name = "confmat";
+	- _id = GUID 1acb5a81-949e-47c8-95c0-f72ad5373e54;
+}
+- genTime = 9.20.2015::12:51:37;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = "Src.sbs";
+	- _subsystem = "Src";
+	- _class = "TopLevel";
+	- _name = "info";
+	- _id = GUID 70b42db4-9f05-4e3d-9cee-04288682095a;
+}
+- genTime = 9.20.2015::12:51:37;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = "Src.sbs";
+	- _subsystem = "Src";
+	- _class = "TopLevel";
+	- _name = "makerules";
+	- _id = GUID f9f7133e-8052-4da9-8ae5-f2b9631cc158;
+}
+- genTime = 9.20.2015::12:51:37;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = "Src.sbs";
+	- _subsystem = "Src";
+	- _class = "TopLevel";
+	- _name = "testrules";
+	- _id = GUID 0cda9308-a230-45de-a086-fade2f896d16;
+}
+- genTime = 9.20.2015::12:51:37;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = "Src.sbs";
+	- _subsystem = "Src";
+	- _class = "TopLevel";
+	- _name = "sort";
+	- _id = GUID 07a17d48-efe0-440b-beae-1faccef6287a;
+}
+- genTime = 9.20.2015::12:51:37;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = "Src.sbs";
+	- _subsystem = "Src";
+	- _class = "TopLevel";
+	- _name = "classify";
+	- _id = GUID e90728a0-3a4f-4003-946c-026bd7506caa;
+}
+- genTime = 9.20.2015::12:51:37;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = "Src.sbs";
+	- _subsystem = "Src";
+	- _class = "TopLevel";
+	- _name = "besttree";
+	- _id = GUID 2b1bb662-2432-4267-9001-c10a4ae2ea73;
+}
+- genTime = 9.20.2015::12:51:37;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = "Src.sbs";
+	- _subsystem = "Src";
+	- _class = "TopLevel";
+	- _name = "contin";
+	- _id = GUID df8a7798-a4f5-41c8-92d8-ad977ea3d987;
+}
+- genTime = 9.20.2015::12:51:37;
+- hElement = { IHandle 
+	- _m2Class = "ISubsystem";
+	- _filename = "Src.sbs";
+	- _subsystem = "";
+	- _class = "";
+	- _name = "Src";
+	- _id = GUID 359bdcd0-eb0c-442d-9576-fc85d214ad7e;
+}
+- genTime = 9.20.2015::12:51:37;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = "Src.sbs";
+	- _subsystem = "Src";
+	- _class = "TopLevel";
+	- _name = "userint";
+	- _id = GUID 53ce6fae-6b5b-4471-9743-77c11524d804;
+}
+- genTime = 9.20.2015::12:51:37;
+- hElement = { IHandle 
+	- _m2Class = "IFile";
+	- _filename = "DefaultComponent.cmp";
+	- _subsystem = "";
+	- _class = "";
+	- _name = "DefaultComponent\\Files\\sys\\types";
+	- _id = GUID 4566618a-1547-4867-b855-96d3c94c7a43;
+}
+- genTime = 9.20.2015::12:51:35;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = "Src.sbs";
+	- _subsystem = "Src";
+	- _class = "TopLevel";
+	- _name = "build";
+	- _id = GUID b8e11f6d-7f3c-406e-9903-a2b54ebd5ff7;
+}
+- genTime = 9.20.2015::12:51:37;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = "Src.sbs";
+	- _subsystem = "Src";
+	- _class = "TopLevel";
+	- _name = "stats";
+	- _id = GUID ec0554ae-1b64-4f36-bcc1-f301b07d140a;
+}
+- genTime = 9.20.2015::12:51:37;
+- hElement = { IHandle 
+	- _m2Class = "IFile";
+	- _filename = "DefaultComponent.cmp";
+	- _subsystem = "";
+	- _class = "";
+	- _name = "DefaultComponent\\Files\\types";
+	- _id = GUID 4311761f-c396-424f-a7e9-39dc5ea47bd4;
+}
+- genTime = 9.20.2015::12:51:35;
+- hElement = { IHandle 
+	- _m2Class = "IFile";
+	- _filename = "DefaultComponent.cmp";
+	- _subsystem = "";
+	- _class = "";
+	- _name = "DefaultComponent\\Files\\extern";
+	- _id = GUID fdfdbd51-b1d9-4352-8000-c7d726d1a7b9;
+}
+- genTime = 9.20.2015::12:51:35;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = "Src.sbs";
+	- _subsystem = "Src";
+	- _class = "TopLevel";
+	- _name = "trees";
+	- _id = GUID aa1e4df7-b7f3-4b6b-9789-5946e3a74c48;
+}
+- genTime = 9.20.2015::12:51:37;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = "Src.sbs";
+	- _subsystem = "Src";
+	- _class = "TopLevel";
+	- _name = "getdata";
+	- _id = GUID 68253b97-6af2-480f-8241-5e0face6dd1f;
+}
+- genTime = 9.20.2015::12:51:37;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = "Src.sbs";
+	- _subsystem = "Src";
+	- _class = "TopLevel";
+	- _name = "c45";
+	- _id = GUID 4a99bfec-c944-4044-81b8-14b40cfd39c5;
+}
+- genTime = 9.20.2015::12:51:37;
+- hElement = { IHandle 
+	- _m2Class = "IFile";
+	- _filename = "DefaultComponent.cmp";
+	- _subsystem = "";
+	- _class = "";
+	- _name = "DefaultComponent\\Files\\buildex";
+	- _id = GUID 558e6916-fe33-45f9-9cc1-ff1de0bb447f;
+}
+- genTime = 9.20.2015::12:51:35;
+

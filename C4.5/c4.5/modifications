@@ -1,0 +1,10 @@
+Modifications since book was published:
+ 
+--------------------------------------------------------------------------------
+(1)	17 August 1992:  fixed bug in prunerule.c
+ 
+	In routine Satisfies about line 434:
+	moved statement
+		    t->Outcome = -1;
+	to before the for loop
+--------------------------------------------------------------------------------
